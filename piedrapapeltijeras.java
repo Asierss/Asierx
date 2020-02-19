@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class piedrapapeltijeraslagartospock {
-    //variables globals que necessitarem per poder correr el programkjrf iwjnijw fiqwjfa.
+    //variables globals que necessitarem per poder correr el programa.
     public static int idioma;
     public static int contador=1;
     public static int tiradaUser=0;
